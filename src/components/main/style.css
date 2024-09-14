@@ -1,0 +1,44 @@
+.container{
+  display: flex;
+   justify-content: center; 
+}
+
+.box{
+    width: 600px;
+    height: 489px;
+}
+
+h1{
+    font-size: 48px;
+    margin-top: 35px;
+    margin-left: 140px;
+
+}
+
+.box p{
+    font-size: 21px;
+    margin-left: 140px;
+    margin-top: 20px;
+}
+
+button{
+    width: 200px;
+    height: 60px;
+    margin-top: 81px;
+    margin-left: 190px;
+    border-radius: 55px;
+    background-color: #0e3c81;
+    color: #FFFFFF;
+    font-size: 16px;
+    transition: 0.5s;
+}
+
+button:hover{
+    background-color: #1c6bdb;
+    transition: 0.5s;
+}
+
+img{
+    width: 600px;
+    height: 498px;
+}

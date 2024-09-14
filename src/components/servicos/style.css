@@ -1,0 +1,31 @@
+.texto {
+    text-align: center;
+}
+
+.container-card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.box-card{
+    margin-top: 30px;
+    width: 350px;
+    height: 200px;
+    border-radius: 15px;
+    background-color: #84afeb41;
+    transition: 0.5s;
+}
+
+.box-card:hover{
+    background-color: #2264c960;
+    transition: 0.5s;
+}
+
+.box-card img{
+    width: 70px;
+    height: 60px;
+    margin-right: 75%;
+    margin-top: 5px;
+}
+
