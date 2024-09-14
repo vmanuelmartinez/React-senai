@@ -1,7 +1,8 @@
 import "./style.css";
 import Doctor from "../../asset/images/doctor.png";
-
-//teste
+import Farmacia from "../../asset/images/farmacia.svg"
+import Consulta from "../../asset/images/consulta.svg"
+// Os icones foram tiradas daqui: https://www.svgrepo.com/
 
 export default function Servicos() {
   return (
@@ -24,13 +25,13 @@ export default function Servicos() {
                 </div>
 
                 <div className="box-card">
-                    <img src={Doctor} alt="" />
+                    <img src={Farmacia} alt="" />
                     <h3>Online pharmacy</h3>
                     <p>Buy  your medicines with our mobile application with a simple delivery system</p>
                 </div>
 
                 <div className="box-card">
-                    <img src={Doctor} alt="" />
+                    <img src={Consulta} alt="" />
                     <h3>Consultation</h3>
                     <p>Free consultation with our trusted doctors and get the best recomendations</p>
                 </div>
