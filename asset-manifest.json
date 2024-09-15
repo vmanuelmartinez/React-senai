@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3f15d3ec.css",
+    "main.js": "/static/js/main.95ff494c.js",
+    "static/js/453.517c4aa8.chunk.js": "/static/js/453.517c4aa8.chunk.js",
+    "static/media/img-healthcare.jpg": "/static/media/img-healthcare.86274030dc43350b1661.jpg",
+    "static/media/icone.jpg": "/static/media/icone.91de8c33facb7055b77d.jpg",
+    "static/media/doctor.png": "/static/media/doctor.ddada4cd81149e6a4496.png",
+    "static/media/details-info.svg": "/static/media/details-info.db030d256fe5daabe3e3450f9da7ce5a.svg",
+    "static/media/emergency-care.svg": "/static/media/emergency-care.6a06434e79ef528068758ece2a49b80a.svg",
+    "static/media/tracking.svg": "/static/media/tracking.bc2b491ab7940e69c28e5d049f1029d3.svg",
+    "static/media/consulta.svg": "/static/media/consulta.c3d34ba444f6e3114aead0ae39cd1c79.svg",
+    "static/media/farmacia.svg": "/static/media/farmacia.88cc9c2b5ae817c7364b79e35f3c923e.svg",
+    "index.html": "/index.html",
+    "main.3f15d3ec.css.map": "/static/css/main.3f15d3ec.css.map",
+    "main.95ff494c.js.map": "/static/js/main.95ff494c.js.map",
+    "453.517c4aa8.chunk.js.map": "/static/js/453.517c4aa8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f15d3ec.css",
+    "static/js/main.95ff494c.js"
+  ]
+}
