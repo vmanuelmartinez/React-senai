@@ -1,0 +1,28 @@
+.container-healthcare{
+    margin-top: 50px;
+    display: flex;
+}
+
+.box-healthcare h1{
+    text-align: justify;
+    font-size: 38px;
+    margin-left: 50px;
+    margin-bottom: 15px;
+}
+
+.box-healthcare p{
+    margin-left: 10px;
+    text-align: justify;
+    font-size: 21px;
+}
+
+.alternative-text{
+    margin-top: 20px;
+}
+
+.container-healthcare img{
+    width: 500px;
+    height: 398px;
+    border-radius: 15px;
+}
+
