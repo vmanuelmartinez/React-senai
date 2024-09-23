@@ -1,10 +1,10 @@
 import './style.css'
-import Healthcare from "../../asset/images/img-healthcare.jpg"
+import LogoDoctor from '../../asset/images/LogoDoctor.jpg'
 
 export default function HealthCare(){
     return(
         <div className="container-healthcare">
-        <img src={Healthcare} alt=""/>
+        <img src={LogoDoctor} alt=""/>
 
         <div className="box-healthcare">
             <h1>Leading healthcare providers</h1>

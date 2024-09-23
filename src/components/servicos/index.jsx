@@ -1,12 +1,7 @@
 import "./style.css";
-import Doctor from "../../asset/images/doctor.png";
-import Farmacia from "../../asset/images/farmacia.svg"
-import Consulta from "../../asset/images/consulta.svg"
-import Details from "../../asset/images/details-info.svg"
-import Emergengy from "../../asset/images/emergency-care.svg"
-import Tracking from "../../asset/images/tracking.svg"
-// Os icones foram tiradas daqui: https://www.svgrepo.com/
+import {Doctor, Farmacia, Consulta, Details, Emergency, trackingIcone  } from "../../asset/images/index"
 
+// Os icones foram tiradas daqui: https://www.svgrepo.com/
 export default function Servicos() {
   return (
     
@@ -46,22 +41,19 @@ export default function Servicos() {
                 </div>
 
                 <div className="box-card">
-                    <img src={Emergengy} alt="" />
+                    <img src={Emergency} alt="" />
                     <h3>Emergency care</h3>
                     <p>You can get 24/7 urgent care for yourself or your children and your
                     lovely family</p>
                 </div>
 
                 <div className="box-card">
-                    <img src={Tracking} alt="" />
+                    <img src={trackingIcone} alt="" />
                     <h3>Tracking</h3>
                     <p>Track and save your medical history and health data </p>
                 </div>             
                
-
                 </div>
-            </div>
-
-          
+            </div>          
   )
 }
