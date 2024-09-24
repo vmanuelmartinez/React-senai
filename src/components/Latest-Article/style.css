@@ -1,0 +1,39 @@
+.container-latest-article {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  background-color: #ffffff;
+  margin-top: 50px;
+  justify-content: center;
+  gap: 30px;
+}
+
+.card-latest-article {
+  width: 280px;
+  height: 350px;
+  background-color: #cccccc85;
+  text-align: center;
+  
+  border-radius: 10px;
+}
+
+.card-latest-article img {
+  width: 220px;
+  height: 170px;
+}
+
+.card-latest-article h1 {
+  font-size: 18px;
+  color: #000000;
+  margin: 10px;
+}
+
+.card-latest-article span{
+  font-size: 17px;
+  font-weight:1000px;  
+  color:#0f499b;
+}
+
+.card-latest-article span:hover{
+  cursor: pointer;
+}

@@ -34,8 +34,9 @@ button{
 }
 
 button:hover{
-    background-color: #1c6bdb;
+    background-color: #073069;
     transition: 0.5s;
+    cursor: pointer;
 }
 
 img{

@@ -26,3 +26,8 @@
     border-radius: 15px;
 }
 
+
+.container-latest-article{
+    display: flex;
+}
+
